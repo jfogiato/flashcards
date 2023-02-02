@@ -14,7 +14,7 @@ I built a terminal-based flashcards application that allows the user to cycle th
 
 ## Preview of App:
 [//]: <> 
-![gif](gif link)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/57634618/216438743-5d744429-9363-4bde-b3ec-5db27087f689.gif)
 
 ## Context:
 [//]: <> 
@@ -27,7 +27,3 @@ This project was the first solo project of Mod 2 at Turing. We were given an ove
 ## Learning Goals:
 [//]: <> 
 The goal of this project was to utilize TDD to write unit & class-to-class tests prior to actually writing functional code. 
-
-## Wins + Challenges:
-[//]: <>
-
