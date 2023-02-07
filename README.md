@@ -9,6 +9,7 @@ I built a terminal-based flashcards application that allows the user to cycle th
 1. Fork and clone [this repo](https://github.com/jfogiato/flashcards)
 1. Copy the SSH key from the green "Code" button within the repo.
 1. In your terminal, use the command `git clone git@github.com:[the link to your repo]`.
+1. Run `npm install`.
 1. Open the repo in your text editor to make any changes or inspect code.
 1. Use `node index.js` to open the app in your terminal.
 
